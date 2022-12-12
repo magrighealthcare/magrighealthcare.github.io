@@ -393,7 +393,7 @@ body{overflow-x: hidden; padding:0; margin:0;font-family: math;}
 /* .our-values-section .our-value-box{display: block;padding: 15px;} */
 .our-values-section .our-value-box .image-part .our-values-img{width: 50px;height: 50px;margin-bottom: 16px;}
 .our-values-section .our-value-box .sub-heading {font-size: 22px;}
-.our-values-section .our-value-box .text{color: #808080;font-size: 15px;}
+.our-values-section .our-value-box .text{color: #2f00ed;font-size: 15px;}
 .our-values-section .row-values{opacity: 1;padding-top: 26px;} 
 /* .our-values-section .row-values .col-values .our-value-box{border-bottom: 1px solid #000;} */
 .our-values-section .row-values .col-values{margin-bottom: 15px;}
