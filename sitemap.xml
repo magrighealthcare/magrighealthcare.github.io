@@ -8,19 +8,44 @@
 
 
 <url>
-  <loc>http://www.magrighealthcare.com/</loc>
-  <lastmod>2022-12-12T11:52:09+00:00</lastmod>
+  <loc>https://www.magrighealthcare.com/</loc>
+  <lastmod>2022-12-17T05:24:43+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.magrighealthcare.com/index.html</loc>
-  <lastmod>2022-12-12T11:52:09+00:00</lastmod>
+  <loc>https://www.magrighealthcare.com/index.html</loc>
+  <lastmod>2022-12-17T05:24:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.magrighealthcare.com/contact-us.html</loc>
-  <lastmod>2022-12-12T11:52:09+00:00</lastmod>
+  <loc>https://www.magrighealthcare.com/about-us.html</loc>
+  <lastmod>2022-12-17T05:24:43+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.magrighealthcare.com/product.html</loc>
+  <lastmod>2022-12-17T05:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.magrighealthcare.com/magrical.html</loc>
+  <lastmod>2022-12-17T05:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.magrighealthcare.com/contact-us.html</loc>
+  <lastmod>2022-12-17T05:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.magrighealthcare.com/Movnflex-HD.html</loc>
+  <lastmod>2022-12-17T05:24:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.magrighealthcare.com/Movnflex-CL.html</loc>
+  <lastmod>2022-12-17T05:24:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
