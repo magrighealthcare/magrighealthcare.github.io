@@ -48,10 +48,18 @@
       <link rel="stylesheet" href="assets/css/style2230.css?v=19.05">
       <link rel="stylesheet" href="assets/css/alertify.min.css">
       <link rel="stylesheet" href="assets/css/alertify.bs.min.css">
-      <script>
-         var site_url = 'index.html';
-      </script>
-      <!-- scripts -->
+	  	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+   
+  
+$(document).ready(function () {
+    // Handler for .ready() called.
+    $('html, body').animate({
+        scrollTop: $('#what').offset().top
+    }, 2000);
+});
+	  </script>
+	  
       <script src="assets/js/jquery-3.4.1.min.js"></script>
       <script src="assets/js/bootstrap.bundle.min.js"></script>
       <script src="assets/js/slick.min.js"></script>
@@ -413,7 +421,7 @@
             <!-- End -->
             <!-- products -->
 			    <section class="product-listing-section py-lg-5 py-4">
-        <div class="container">
+        <div class="container" id="what">
             <div class="card card-body border-0 shadow ">
                 <div class="row">
                                                 <div class="col-lg-6 col-md-5 mb-md-0 mb-4">
